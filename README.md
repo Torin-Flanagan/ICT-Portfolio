@@ -27,7 +27,7 @@ I am currently based on the Sunshine Coast in Queensland.
 ### Featured Work In Order Of Significance ###  
 1. Fortinet eSOC Capstone Project.
 
-2. Azure Cosmos DB (NoSQL) and Azure SQL Databse with Python Application.
+2. Azure Cosmos DB (NoSQL) and Azure SQL Database with Python Application.
 
 3. Device and Network Security Business Case Implementing Essential 8 Level 2.
 
@@ -37,7 +37,7 @@ I am currently based on the Sunshine Coast in Queensland.
 
 6. Engineering Project Plan (A and B).
 
-7. Wireless Network and Communciations Report with Cisco Packet Tracer.
+7. Wireless Network and Communications Report with Cisco Packet Tracer.
 
 8. GeoView Web Application Project for Desktop and Mobile Devices.
 
