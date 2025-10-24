@@ -61,5 +61,7 @@ I am currently based on the Sunshine Coast in Queensland.
 
 ### Contact ###
 **Email**: torinflanagan@gmail.com
+
 **Phone**: 0406 902 931
+
 **LinkedIn**: https://www.linkedin.com/in/torin-flanagan-5a8840254
