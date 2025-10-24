@@ -1,9 +1,12 @@
 # Torin Flanagan ICT-Portfolio
 This is my student portfolio containing all evidence of past significant university study works I have conducted.
 
+---
 
 ### Qualification ###
 I hold a Bachelor of Information and Communication Technology (ICT) from the University of the Sunshine Coast (UniSC).
+
+---
 
 ### ICT Interests ###
 My passions within the realm of ICT in order include:
@@ -13,6 +16,8 @@ My passions within the realm of ICT in order include:
     4. Data Science and Analysis
     5. Software Development
 alongside many more IT-related skills.
+
+---
 
 ### Location ###
 I am currently based on the Sunshine Coast in Queensland.
@@ -51,6 +56,8 @@ I am currently based on the Sunshine Coast in Queensland.
 15. ArcGIS Software Analysis and Geoprocessing.
 
 16. FinTech Innovations Report.
+
+---
 
 ### Contact ###
 **Email**: torinflanagan@gmail.com
